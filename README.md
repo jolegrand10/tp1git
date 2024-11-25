@@ -8,6 +8,7 @@ CSS
 JavaScript 
 
 ## Installation 
-Clonez le dépôt. 
+1. Clonez le dépôt. 
+
 2. Ouvrez `index.html` dans un navigateur.
 
